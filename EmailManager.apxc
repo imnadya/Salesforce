@@ -1,4 +1,5 @@
 public class EmailManager {
+// https://trailhead.salesforce.com/content/learn/modules/apex_database/apex_database_intro?trail_id=force_com_dev_beginner
     // Public method
     public static void sendMail(String address, String subject, String body) {
         // Create an email message object

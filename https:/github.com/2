@@ -1,6 +1,7 @@
 public class StringArrayTest {
     /* Challenge solution for Trailhead module "Get Started with Apex".
-     * Create an Apex class with a method that returns a list of strings.
+    https://trailhead.salesforce.com/content/learn/modules/apex_database/apex_database_intro?trail_id=force_com_dev_beginner
+     Create an Apex class with a method that returns a list of strings.
 Create an Apex class with a method that returns a list of formatted strings. 
 The length of the list is determined by an integer parameter. You can also use an array if you prefer, but these instructions assume you’re using a list.
 The Apex class must be called StringArrayTest and be in the public scope.

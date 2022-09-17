@@ -10,3 +10,5 @@ public with sharing class AccountHandler {
         }
     }
 }
+//now in developer console
+//Initilaize

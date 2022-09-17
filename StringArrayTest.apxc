@@ -29,31 +29,6 @@ Remember that in Apex, the index position of the first element in a list is alwa
     return TestList;
     }
 }
-/*
 
-public static List generateStringArray (Integer n) {
-List stList = new List();
-for (Integer i=0; i<n; i++) {
-stList.add('Test ' + i);
-}
-return stList;
-}
-
-//Execute Anonymous code to call the class above
-
+//Execute Anonymous code to call the class StringArrayTest
 StringArrayTest.generateStringArray(Enter the value of i );
-*/
-
-/* 
-    public static List<string> generateStringArray(Integer n)
-    {
-        List<String> myArray = new List<String>();
-        
-        for(Integer i=0;i<n;i++)
-        {
-            myArray.add('Test'+i);
-            System.debug(myArray[i]);
-        }
-        return myArray;
-        
-*/
